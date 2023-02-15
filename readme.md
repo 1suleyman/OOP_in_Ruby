@@ -1,0 +1,1 @@
+All right! Now that you know how to control the level of privacy in a Ruby class, we can use that to our advantage when creating objects. In this case, we’ll be making an Account object with public methods to display balances and transfer funds, but which rely on private methods to make sure the user’s PIN (personal identification number) is correct before approving transactions.
